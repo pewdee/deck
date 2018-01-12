@@ -1,0 +1,60 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/css/deck.min.css",
+    "inputFiles": [
+      "Scripts/font-awesome/css/font-awesome.css",
+      "Scripts/bootstrap/dist/css/bootstrap.css",
+      "Scripts/deck/css/deck.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/deck.min.js",
+    "inputFiles": [
+      "Scripts/jquery/dist/jquery.js",
+      "Scripts/popper.js/dist/umd/popper.js",
+      "Scripts/bootstrap/dist/js/bootstrap.js",
+      "Scripts/deck/js/deck.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": true
+  },
+  {
+    "outputFileName": "wwwroot/fonts/FontAwesome.otf",
+    "inputFiles": [
+      "Scripts/font-awesome/fonts/FontAwesome.otf"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/fonts/fontawesome-webfont.eot",
+    "inputFiles": [
+      "Scripts/font-awesome/fonts/fontawesome-webfont.eot"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/fonts/fontawesome-webfont.svg",
+    "inputFiles": [
+      "Scripts/font-awesome/fonts/fontawesome-webfont.svg"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/fonts/fontawesome-webfont.ttf",
+    "inputFiles": [
+      "Scripts/font-awesome/fonts/fontawesome-webfont.ttf"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/fonts/fontawesome-webfont.woff",
+    "inputFiles": [
+      "Scripts/font-awesome/fonts/fontawesome-webfont.woff"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/fonts/fontawesome-webfont.woff2",
+    "inputFiles": [
+      "Scripts/font-awesome/fonts/fontawesome-webfont.woff2"
+    ]
+  }
+]
